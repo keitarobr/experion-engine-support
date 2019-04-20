@@ -1,0 +1,296 @@
+Adaptação de um algoritmo de schema matching
+A Filtered-Page Ranking: An Approach for Previously Filtered HTML Documents Ranking
+AgroMobile Uma Ferramenta parav Dispositivos Móveis de Auxílio ao Produtor Rural
+Agrupamento aproximado de Currículos Lattes por Afinidade de Áreas de Conhecimento Considerando Temporalidade
+Agrupando aproximado de pesquisadores por co-autoria de publicações segundo o currículo Lattes.
+A importância da tecnologia XML na Internet
+AJAX: Dinamismo e Interações nas aplicações Web	Aplicações Web Programação para Web
+Ajustamento de pesos em ranqueamento personalizado com múltiplos critérios
+Ajustamento de pesos para ratings de múltiplos critérios em recomendação de itens
+Alto Desempenho em Bancos de Dados
+Ambiente para testes, validação e transformando de dados da Web para um banco de dados com múltiplas representações
+An Advance Resource Reservation Approach in a Cloud Database Environment
+Anais da I Sessão de Demos
+Analisando a eficácia do modelo vetorial de busca na ordenação de questionários
+Análise da Implementação de Web Services
+Análise e estudo de caso de técnicas de mineração de dados para bioinformática	Mineração de dados Bioinformática
+An Approach for Extracting Web Form Labels Based on Distance Analysis Of HTML Components
+Aplicação de Funções de Similaridade e Detecção de Diferenças em Grandes Volumes de Dados Distribuídos
+Aplicação do modelo vetorial para busca por similaridade em textos XML	Similaridade XML
+Aplicando tuning no PostgreSQL
+Approximate data instance matching: a survey
+Aprimoramento de motor de busca: expansão de consultas por análise global com comparações semânticas
+A Similarity Search Approach for Web Forms
+A strategy for allowing meaningful and comparable scores in approximate matching
+A Strategy for Allowing Meaningful and Comparable Scores in Approximate Matching
+A study of project documentation memory described in XML.
+Automatic Web Page Segmentation and Noise Removal for Structured Extraction using Tag Path Sequences
+Avaliando a performance das funções de similaridade através da revocação e precisão	Consulta por similaridade Funções de similaridade Integração de Dados
+Banco de dados	Banco de Dados SGBD livre MySQL PostgreSQL SQL
+BDMOdonto: uma Biblioteca Digital Multimídia Odontológica com Suporte de uma Ontologia
+Bibliotecas Digitais Como Meio de Disseminação de Conhecimento e Preservação Cultural e Científica
+Busca de Imagens em Uma Biblioteca Digital Odontológica
+Busca de microformatos em páginas Web
+CALC: Agrupamento de perfil científico por afinidade de pesquisa utilizando currículos Lattes
+Chronos - Um motor de busca temporal
+Clustering de documentos XML	XML Algoritmos de clustering
+Coleta, a organização e publicação dos dados da produção científica e técnica dos docentes da UFSC	Banco de Dados Extração de dados Produção Científica
+Comparativo de algoritmos de análise de sentimentos quando aplicados ao Facebook
+Consulta semântica por similaridade a dados semi-estruturados	XML Dados semi-estruturados Modelo conceitual Similaridade Consulta semântica Consulta por similaridade
+Consulta semântica por similaridade a dados semi-estruturados	Consulta semântica Dados semi-estruturados Consulta por similaridade Similaridade
+Crawler para população de repositórios com tabelas extraídas da Web
+Creating XML documents from relational data sources
+XML Modelo relacional
+Criação de uma Biblioteca Digital Multimídia Odontológica
+Criação de uma Bioblioteca Digital Multimídia para a Odontologia	Bancos de dados distribuídos Bibliotecas Digitais
+Dados Semi-estruturados	Dados semi-estruturados
+Dados Semi-estruturados (tutorial)
+DBaaS Multitenancy, Auto-tuning and SLA Maintenance in Cloud Environments: a Brief Survey
+Decomposição de consultas sobre bases de dados distribuídas	Decomposição de consultas Bases de dados distribuídas
+Descoberta de Domínio Conceitual de Páginas Web
+Desenvolvimento de aplicações de comércio eletrônico utilizando agentes de software: arquiteturas, tecnologias e tendências
+Desenvolvimento de ferramenta para auxílio de auditoria de banco de dados para PostgreSQL
+Desenvolvimento de ferramentas de consulta e integração por similaridade a fontes XML	Consulta por similaridade Similaridade XML
+Desenvolvimento de um crawler para busca de questionários de pesquisa
+De Técnicas de Detecção e Modelagem de Perfil de Usuários
+Detectando similaridade entre diferentes representações de entidades usando Classificadores Bayesianos	Banco de Dados Similaridade Consulta por similaridade Detecção de Entidades Redes Bayesianas Casamento de instâncias
+Disponibilização de dados de estações meteorológicas oriundas de diferentes fontes de dados através do uso de Web Services	Web Services Web Services Discovery
+Educação em Computação na Integração de Sistemas Sócio-Técnicoculturais
+Efetuando Junção por Similaridade de Documentos XML Armazenados em Sistemas de Arquivo
+EMap - Uma Interface de Consultas Temporais em SGBDs Relacionais
+Eris: Um protótipo para consulta por similaridade a bases de dados XML	Consulta por similaridade Similaridade
+Eris - um sistema de consulta por similaridade
+Especificação de Metadados Multifacetados Taxonomia para um Ambiente de Integração de Dados na Web	Metadados Catálogos para Dataspaces
+Especificação de uma Taxonomia para Metadados Multifacetados em Ambientes de Integração de Dados na Web
+Estudo e Análise da Viabilidade do Uso do Oracle BPEL para Workflows Científicos
+Execução e experimentação de consultas intervalos de valores e/ou valores geográficos
+Execution of a Web Crawler over pdf documents	Web Crawler Extração de dados
+Experimentos de indexação de dados com o Lucene
+Experimentos em programação multithread para funções de similaridade aplicadas a registros de dados
+Extração de dados semi-estruturados com base em uma ontologia	Dados semi-estruturados Ontologia
+Extração de Dados Semi-estruturados com base em uma ontologia
+Extração de Dados XML com base em uma Ontologua
+Extração de Informação de Documentos XML Baseada em uma Ontologia	Extração de dados Ontologia Documentos XML
+Extração Semântica a partir de Documentos XML
+Extracting Records from the Web Using a Signal Processing Approach
+Extraindo Metadados de Documentos PDF Usando Um Template XML
+Ferramenta de busca na Web que usa o feedback do usuário
+Ferramenta para extração de dados de páginas do tipo perguntas e respostas
+Ferramenta para extração de Web Forms
+Ferramenta para extração de WebTables e criação de scripts SQL
+Ferramenta para mapeamento de esquemas XML para esquemas relacionais	XML Modelo relacional
+Ferramenta para preenchimento automático de formulários web para extração de resultados
+Ferramenta para Suporte a Consultas Temporais em SGBDs
+Find Me: uma Ferramenta para Consulta Estruturada a dados wiki
+Fontes de dados distribuídas: estudo de técnicas, aplicações e padrões
+Formal Grammar for the Normalization of Relative Temporal Expressions
+Geração automática de esquemas relacionais a partir de esquemas XML
+Geração automática de esquemas relacionais a partir de esquemas XML
+Geração automática de Interface Multiplataforma utilizando a UsiXML
+Gerenciamento de Dados Agrícolas Utilizando a Computação Móvel em Dispositivos com Limitada Capacidade de Armazenamento
+Gerenciamento de Perfil de Usuários Para Uso em Bibliotecas Digitais
+Handling temporal information in web search engines
+II Escola Regional de Banco de Dados (ERBD)
+Implementação de funções de similaridade no PostgreSQL	Banco de Dados Consulta por similaridade PostgreSQL SGBD livre Similaridade
+Implementação de três variações do algoritmo de Rocchio para feedback explícito
+Implementação de uma técnica de descoberta de esquemas sobre as estruturas de tabelas web
+Implementação de um esquema de extração de dados tabulares da web
+Implementação dos métodos
+Implementação dos métodos
+Improving Performance in a DBaaS Environment through the use of Resource Reservation
+Indexação para busca por similaridade textual
+Integração de Ambiente Web ao Google Maps	Google Maps Sistemas Web
+Integração de dados em múltiplos níveis	XML
+Integração de Dados usando Aprendizado de máquina assistido	Consulta por similaridade Integração de Dados
+Integração de Esquemas via WebServices	Web Services Integração de esquemas Interoperabilidade de dados
+Integração de fontes XML	XML Integração de Dados Funções de similaridade
+Interoperabilidade de sistemas e dados utilizando SOA e BPEL	Interoperabilidade de sistemas SOA BPEL Web Services
+Interoperabilidade entre microformatos
+Ipu: sistema web de mapeamento dos currículos de professores e pesquisadores da UFSC
+IV Escola Regional de Banco de Dados
+Java e XML
+Junção por similaridade de documentos XML	Integração de Dados Junção por similaridade XML
+Levantamento da colaboração científica existente entre pesquisadores, alunos e pares
+Ligando a tecnologia de banco de dados com gestão de documentos	Documentos Banco de Dados
+LIMITAÇÕES DA LINGUAGEM SQL RESOLVIDAS POR ALGORITMOS DE MINERAÇÃO DE DADOS
+Mapeamento Automático de Modelos de Dados XML Temporais Ad-hoc para um Modelo de Dados XML Temporal Padrão
+Mapeamento baseado em regras da W3C XML Schema para o o SQL-92
+Mapeamento da Linguagem de Consulta Temporal TSQL2 para a Extensão Temporal do PostgreSQL
+Mapeamento de esquemas relacionais para esquemas XML	Banco de Dados SQL XML
+Mapeamento de esquemas relacionais para esquemas XML	Esquemas XML Esquemas relacionais Interoperabilidade de esquemas Mapeamento de esquemas
+Mapeamento de uma Linguagem de Consulta Temporal para o Banco de Dados PostgreSQL
+Mapeamento de um Modelo Lógico Temporal para um Modelo Físico em um SGBD
+Mapeamento XML / Relacional
+Materialização de Visões Semi-Estruturadas em Banco de Dados Relacional	Banco de Dados Dados semi-estruturados Modelo relacional Materialização de visões
+Measuring similarity between collection of values	Consulta por similaridade Similaridade
+Melhoria de ranking usando feedback do usuário	Base de dados Feedback implícito Feedback explícito
+Mineração de Dados em Banco de Dados
+Modelando o Perfil de Pesquisadores Através de Fontes de Dados Heterogêneas
+Nazca: A Context-based Matching Method for Searching Heterogeneous Structures
+O que é a área de banco de dados hoje? Detalhando BD, integração de dados e XML
+Orion: a Cypher-based Web Data Extractor
+ORION: uma abordagem eficaz e robusta para aquisição de valores de atributos de entidades do mundo real
+Participação Feminina nas Bolsas de Produtividade PQ do CNPq
+Pesquisa de Similaridade em XML	Similaridade XML
+PgSimilar: uma ferramenta open source para suporte a consultas por similaridade no PostgreSQL
+Pré-processamento de tabelas Web heterogêneas para execução do algoritmo de junção merge
+Processamento e Otimização de consultas em SQL	Processamento de Consultas Otimização de Consultas
+Proposta de um Framework para Visualização de Dados Agregados por Similaridade para Auxiliar Consultas durante a Navegação na Web
+Proposta de um Processo de Classificação para Nomeação de Tabelas geradas a Partir de WebTables
+QSMatching: an Approach to Calculate Similarity Between Questionnaires
+QSMatching versus Vector model: comparing effectiveness in questionnaires retrieval
+Qual o Papel de um DBA?
+Research on Complex Data Management and Analysis at UFSC
+R-Extractor: an extended method for data extraction from template-based entity-pages
+Semantica xml em motores de busca na internet usando palavras-chave
+SILQ 2.0 - Reestruturação e melhorias no Sistema de Integração Lattes - Qualis
+Silq: Sistemas de Integração Lattes-Qualis
+Sistema de Busca Sobre Metadados Associados à Imagens
+Sistema de Busca Web para Obtenção e Comparação de Preços de Produtos
+Sistema para Gerenciamento de Folha de Pagamento	Controle de estoque Modelagem
+Sistema web para divulgação de ofertas de estágio, empregos, bolsas
+Sistema Web para inscrição e classificação de alunos no PPGCC
+SistLeite: Sistema para Controle de Produção Leiteira	Sistemas de Informação
+SSUP - A URL-based method to entity-page discovery
+Suporte a argumentos de consulta vagos através da XPath
+Supporting Temporal Queries on XML Keyword Search Engines
+Towards Automatic Document Classification by Exploiting only Knowledge Resources
+Towards Recency Ranking in Community Question Answering: A Case Study of Stack Overflow
+Two-Phase Interception (2PI): Uma Abordagem para Suporte a Consultas Temporais por Palavras-chave em XML
+Uma Abordagem para Detecção e Extração de Rótulos em Formulários Web
+Uma abordagem para geração de relatórios de apoio a Pós-Graduação
+Uma aplicação para consultas estruturadas na Web
+Uma Arquitetura para Comunicação Móvel em Meios Intermitentes Utilizando Dispositivos com Recursos Computacionais Limitados
+Uma Biblioteca Digital de Trabalhos Científicos com Serviços Integrados
+Uma Biblioteca Digital para Trabalhos de Conclusão de Curso
+Uma Estratégia Genérica para Casamento Aproximado de Instâncias
+Uma Ferramenta para Consulta Estruturada na Web
+Uma Ferramenta para Visualização de Planos de Execução de Consultas para Múltiplos Sgbds
+Uma interface visual para a linguagem XML/SQL
+Um Estudo sobre Técnicas de Recuperação de Informação e Linguagem Natural para Dados Semi-estruturados	Recuperação de informação Processamento de Linguagem Natural
+Um Mecanismo Semi-automático de Auto-Arquivamento de Documentos em uma Biblioteca Digital
+Um Modelo Temporal para Definição do Perfil de Pesquisadores Utilizando Dados do Lattes
+Um Panorama do Uso do Tempo em Motores de Busca Web
+Um Processo de Submissão, Validação e Publicação de Documentos PDF na BDTC
+Usando informações do contexto para melhoria da precisão nas buscas por similaridade
+Uso de algoritmos de Diff no apoio a integração de dados XML	Integração de Dados XML Algoritmos de Diff Algoritmos de similaridade
+Uso de Expressões Temporais em Busca na Web: Uma análise através das sugestões de consulta.
+Utilizando Similaridade Textual Para Validação de Metadados em Bibliotecas Digitais
+WebBib - Referências Bibliográficas na Web	Referências bibliográficas web Banco de Dados
+WebCrawler para localização de citações bibliográficas
+Web table taxonomy and formalization
+WomB ? Women in dataBases
+WomB ? Women in dataBases, Segunda Edição
+XML
+XML: Teoria e Aplicações
+
+
+
+
+
+
+
+
+
+Aplicações de Bibliotecas Digitais como Garantia de Disseminação de Conhecimento e Preservação Cultural e Científica	O presente projeto visa o estudo das atuais tecnologias aplicadas ao Gerenciamento de Bibliotecas Digitais, de maneira que possibilitem o desenvolvimento e a implantação de bibliotecas digitais. Pretende-se utilizar técnicas de personalização e recomendação, bem como o gerenciamento do perfil dos usuários, que farão acesso aos conteúdos que serão disponibilizados em tais sistemas. Destaca-se também, a unificação das várias aplicações de bibliotecas digitais através de um único portal de acesso, dentro da UPF.
+Legacy - IBM/UFRGS/Solectron	o projeto visa a aplicação experimental de técnicas e métodos que foram desenvolvidos e estudados na UFRGS sobre um caso prático na PROCERGS. As técnicas e métodos procuram trazer soluções para três problemas: (1) integração de fontes heterogêneas de dados; (2) acesso a bases de dados legadas; e (3) gestão de documentos com XML.
+Gerindo - Gerência e Recuperação de Informação em Documentos	: tem como objetivo principal o desenvolvimento científico e tecnológico do Brasil nas áreas de gerência de dados e recuperação de informação contida em documento, cujo alcance deve-se conseguir através de atividades como: a realização de pesquisa básica nas áreas de gerência e recuperação de informação, a criação de uma biblioteca de software para o desenvolvimento de aplicações na área do projeto e um sistema para coleta e recuperação de informação sobre a Web brasileira
+GDOC - Sistema para gerenciamento e autoria de documentos através de browsers Web	a proposta do projeto GDOC é o desenvolvimento de um sistema de gerenciamento de workflow para gestão de documentos que agregue as características do tipo ad hoc e administrativo. Para tal , foi definido um modelo conceitual combinando os modelos de Joostene de Ellis. Esse modelo pretende dar suporte às empresas para as exigências de certificação ISO 9000. O sistema segue o modelo de referência especificado pela WFMC, e foi desenvolvido aplicando-se técnicas orientadas a objetos (Método FUSION).
+IDoc - Gestão de Conhecimentos baseada em documentos - Extração de Estruturas de Documentos Legados Utilizando Conhecimento	este projeto é uma extensão ao Projeto GDOC. Sua meta final é obter um Sistema de Gerência de Documentos que tenha como característica marcante o suporte à Gestão do Conhecimento ( Knowledge Management ). Além disso, o sistema possui Gerenciamento de Workflow, e funcionalidades para importação de documentos legados, tanto em papel, quanto em meio eletrônico. O sistema explora técnicas de Raciocínio Baseado em Casos para extração e recuperação de conteúdos em textos legado
+RIBIDI - Recuperacion de Informacion y Bibliotecas Digitales.	O projeto propõe o desenvolvimento de um sistema de banco de dados com acesso via Web, denominado ?Sistema de Relatório de Defeitos de Módulos /RDM?, cujo principal objetivo é facilitar e agilizar o processo de obtenção de informações estatísticas de defeitos de módulos de softwares e permitir condições de rastreabilidade das várias instalações por que passaram ao longo do tempo
+Desenvolvimento de um método para casamento aproximado de instâncias	O projeto tem como objetivo desenvolver o estudo e a pesquisa em técnicas de casamento aproximado de instâncias XML. A proposta final do projeto é uma metodologia de casamento aproximado que utilize algoritmos genéticos na identificação de pares que casam entre si
+Produção Integrada de Trigo no Brasil	O projeto visa a obtenção de trigo com qualidade certificada, protegendo os recursos naturais e incrementando a competitividade da cadeia produtiva. Para isso, as normativas PIT serão elaboradas a partir do conhecimento e tecnologia disponíveis nas diferentes áreas: manejo do solo, correção/fertilização, manejo de plantas daninhas, semeadura, tratos culturais, manejo integrado de pragas e doenças. Uma das atividades a ser executada é a integração de tais informações, em uma base de dados centralizada, sem inconsistências, a fim de que possam ser utilizadas pelos gestores do projeto
+Monitoramento participativo da transição agroecológica em territórios rurais de dois biomas brasileiros	a contribuição tecnólogica para o projeto se dará através da construção de um Banco de dados, com acesso via Web através do Google Maps, que possibilite que pesquisadores e grupos comunitários possam ter acesso centralizado e analítico de todo o conhecimento gerado pelas famílias e grupos comunitários, que ainda permanece disperso e pouco socializado em seu conjunto pelas organizações locais promotoras da agroecologia.
+Modelagem de Risco de Micotoxinfecção de Fusarium de Cevada no Sul do Brasil	a colaboração no projeto se dá através da definição de técnicas de integração de dados obtidos a partir do levantamento de informações sobre contaminação por micotoxinas para a cultura cevada em diferentes regiões produtoras no sul do Brasil.
+Desenvolvimento Urbano na Região da Produção: Diagnóstico com base no Estatuto da Cidade	o projeto visa a investigação sobre os programas habitacionais desenvolvidos em municípios do norte do estado do Rio Grande do Sul, Brasil, como parte de pesquisa acadêmica sobre o desenvolvimento urbano. A colaboração dentro do projeto de dá através da modelagem e projeto de um banco de dados para armazenamento dos resultados obtidos com a investigação e geração de relatórios analíticos.
+Indicadores de Sustentabilidade em Trigo	dentro deste projeto, o tratamento de dados históricos é essencial para a disponibilização de estimativas de benefícios e riscos usadas em ações a serem implementadas. As séries históricas são, em alguns casos, geradas por diferentes sistemas e/ou pessoas, sendo necessária a sua integração a fim de utilizá-las no contexto do projeto. Assim, é importante efetuar uma análise detalhada das características dos dados presentes nestas séries, a fim de definir mecanismos de integração que sejam aplicáveis a elas, e que não tragam perda de informação, ou de significado, durante o processo de integração.
+Sistema de Suporte à Tomada de Decisão para a Redução do Risco na Agricultura: I - SSD do Trigo nos Estados do PR, RS e SC	a principal atividade de cooperação dentro do projeto envolve a integração dos dados obtidos por estações meteorológicas automáticas que se encontram espalhadas pelos três estados da região sul, registrando informação sobre o clima, tais como temperatura do ar, umidade relativa, pressão atmosférica, precipitação, temperatura do solo, entre outras. Esta integração de faz necessária para que os dados possam ser disponibilizados para serem utilizados posteriormente para a geração de informações a serem usadas para a tomada de decisão.
+Caminho das Águas	o projeto tem como objeto o registro de imagens de todo o processo histórico e cultural do Litoral Norte do RS. A colaboração ao projeto tratava da modelagem e projeto de um banco de dados capaz de armazenar e acessar as imagens referentes ao acervo histórico coletado.
+IPU: Coleta, a organização e publicação dos dados da produção científica e técnica dos docentes da UFSC;	Este projeto tem como principal objetivo o mapeamento de grandes volumes de dados XML para persistência em um banco de dados relacional. O foco é realizar a alimentação do banco de dados com dados pu&#769;blicos contidas nos curri&#769;culos Lattes dos membros da comunidade universita&#769;ria, e uma plataforma web de apoio a&#768; tomada de deciso&#771;es por parte dos gestores para assuntos como a produc&#807;a&#771;o bibliogra&#769;fica, te&#769;cnica e arti&#769;stica dos docentes da instituic&#807;a&#771;o. Os dados sa&#771;o coletados atrave&#769;s de um webservice fornecido pelo CNPq, tratados atrave&#769;s de uma ferramenta de parse dos arquivos XML recebidos e padronizados para a inserc&#807;a&#771;o no banco de dados elaborado no projeto. Baseando-se nas informac&#807;o&#771;es obtidas e armazenadas nas tabelas do banco de dados desenvolvido, há a possibilidade de automatizac&#807;a&#771;o e validac&#807;a&#771;o de diversos procedimentos realizados por outras aplicac&#807;o&#771;es dentro da universidade no a&#770;mbito de outros sistemas desenvolvidos.
+VIDAS - Visualização e Interação com Dados Agregados por Similaridade (CAPES/COFECUB - França)	Vivemos em uma sociedade na qual a informação e a tecnologia estão intimamente ligadas à vida das pessoas. A Web desempenha um papel preponderante e crescente como meio de difusão e, consequentemente, de obtenção de informações. Assim, a busca de informações nesse grande repositório de dados, a identificação de quais fontes de dados são confiáveis e a comparação de informações originadas a partir de fontes de dados diferentes tornaram-se tarefas do cotidiano, para as quais não se tem apoio suficiente. Um dos grandes problemas criados pelo volume e pela variedade de dados disponíveis na Web é o gerenciamento de dados incertos (i.e. dados que possuem múltiplas representações do mesmo objeto do mundo real); ex.: ?Antonio Carlos de Azevedo? pode ocorrer como ?Antonio C. Azevedo?, ?Antonio de Azevedo?, ou mesmo ?Antonio Azevedo?. Neste contexto, funções de similaridade podem ser utilizadas para efetuar casamento aproximado de dados, indicando quais instâncias correspondem a diferentes representações do mesmo objeto do mundo real. Contudo, a grande heterogeneidade na representação dos dados não permite que se identifique automaticamente quais valores se referem ao mesmo objeto, sendo necessária a participação do usuário no processo. Um dos problemas que surge em ambientes que fazem uso de funções de similaridade é como visualizar os resultados dessas funções e as alternativas que devem ser apresentadas aos usuários para decisão. O objetivo principal deste projeto é estudar métodos, técnicas e ferramentas focados nas necessidade dos usuários em visualizar e interagir com dados agregados a partir de funções de similaridade, dados incertos.
+Coleta, a organização e publicação dos dados da produção científica e técnica dos docentes da UFSC	Coletar, organizar e publicação qualitativa e quantificativa da produção científica e técnica dos docentes da UFSC
+GeDiH Gerenciamento e disponibilização de dados Heterogêneos (Edital PQ - CNPq)	Os dados disponibilizados na Web são, reconhecidamente, o maior ambiente de dados heterogêneos da nossa atualidade, e este ambiente está em crescimento contínuo tanto em o volume quanto na complexidade de sua estrutura. Esta característica gera problemas nas mais diversas áreas e contextos, principalmente em integração e busca de informações. Devido à característica de larga escala (volume), um mesmo objeto do mundo real pode aparecer em vários contextos. Ao mesmo tempo, por tratar-se de dados altamente heterogêneos (complexidade), este mesmo objeto pode ter múltiplas representações em diferentes fontes de dados. Estas duas características, em particular, criam diversos problemas de manipulação dos dados na Web, tal como efetuar detecção das várias representações de um mesmo objeto da realidade. Apesar de muito ter sido estudado, e de diversas propostas terem sido apresentadas na comunidade científica, a alta heterogeneidade e o grande volume de dados existente são fatores críticos para o real funcionamento das propostas. O conceito de Dataspace Support Platform (DSSP) foi introduzido na comunidade como uma solução para gerenciar dados disponibilizados em ambientes com características de heterogeneidade e larga escala, como a Web. Basicamente, o objetivo de uma DSSP é conter componentes capazes de fornecer serviços inter-relacionados e que garantam acesso fácil a dados distribuídos. Partindo da ideia de DSSPs, a proposta desse projeto é a continuidade do projeto desenvolvido nos três últimos anos de Bolsa em Produtividade (de 2011 a 2013), através da especificação e desenvolvimento de técnicas e algoritmos de gerenciamento de dados com múltiplas representações, conectados entre si em um mesmo ambiente. Desta forma, será possível ter um ambiente provido de funcionalidades que irão permitir que usuários acessem os dados distribuídos em diversas fontes de dados heterogêneas. Da mesma forma que o projeto anterior, o atual projeto contempla duas contribuições de mais alto nível: (i) especificação e construção de técnicas e algoritmos de gerenciamento de dados com múltiplas representações; e (ii) desenvolvimento de um ambiente que implemente a interação eficaz entre as técnicas concebidas.
+Mariage: Extração e casamento de dados estruturados da Web com múltiplas representações (Universal 2016)	A Web é o maior ambiente de dados heterogêneos da atualidade, onde o volume e a complexidade da estrutura destes dados estão em crescimento contínuo. Esta característica gera alguns problemas nas mais diversas áreas e contextos, principalmente em integração e busca de informações. Devido à característica de larga escala (volume), um mesmo objeto do mundo real pode aparecer em vários contextos. Ao mesmo tempo, por tratar-se de dados altamente heterogêneos (complexidade), este mesmo objeto pode ter múltiplas representações em diferentes fontes de dados. Estas duas características, em particular, criam Página 1 de 5 diversos problemas de manipulação dos dados na Web, tais como consultas, integração, indexação entre outros. Dentro deste contexto, a Web é considerada também o maior repositório de dados estruturados existentes, considerando apenas Web Tables e Web Lists. A Web possui mais de 150 milhões de tabelas HTML com alta qualidade de conteúdo considerado ?dado relacional?. A principal motivação para trabalhar com este tipo de informação é possibilitar análise e integração de dados na Web, pois ela pode ser considerada a maior base de conhecimento existente. Muitos trabalhos têm sido desenvolvidos para tratar Web Tables, e dentre eles podem-se destacar identificação de tabelas e extração de dados, a fim de que sejam utilizado como base para consultas estruturadas na Web. O grande problema é que a grande maioria das tabelas Web possui estrutura diferente das tabelas relacionais, e portanto precisam ser individualmente analisadas a fim de sua estrutura possa ser compreendida. Além da heterogeneidade estrutural, podem ser extraídas tabelas com o mesmo conteúdo de diferentes fontes de dados, voltando ao problema de múltiplas representações do mesmo objeto do mundo real. Como não é possível assegurar com exatidão que duas representações se referem ao mesmo objeto, a solução é prover um mecanismo que forneça uma noção de proximidade entre os valores, usando funções de similaridade. De forma geral, o termo usado para designar esta questão é casamento aproximado. Assim sendo, dentro deste contexto, três tarefas são muito importantes para a proposta de uma solução: (i) análise das estruturas dos dados a fim de identificar conteúdo útil; e (ii) casamento (matching) de dados extraídos de diversas fontes de dados; e (iii) criação de um esquema que represente a estrutura dos dados extraídos. Na tarefa de análise das estruturas, se faz necessário o desenvolvimento de um crawler que identifique dados estruturados na Web, de forma que seja possível extrair o conteúdo de cada um deles. O desafio é definir uma abordagem precisa e eficaz para a determinação de equivalências entre as muitas possíveis estruturações que um mesmo dado pode ter na Web. A intenção é definir uma técnica mais precisa do que as atualmente definidas pela comunidade. A tarefa de definição de esquema deverá gerar como resultado um esquema que apresente uma visão da estrutura extraída das diversas fontes de dados. Outro ponto importante, que deve ser considerado no algoritmo de matching, é a evolução temporal dos dados, dada pela atualização constante dos dados.
+Aglomerante: Ambiente para Gerenciamento de Dados com Múltiplas Representações (Edital PQ - CNPq)	Muito tem sido estudado e diversas propostas têm sido apresentadas dentro da comunidade de Banco de Dados, no sentido de adaptar as técnicas já maduras de Sistemas Gerenciadores de Banco de Dados para o ambiente da Web. No entanto, dada sua alta heterogeneidade e o grande volume de dados existente, técnicas tradicionais de banco de dados não podem ser aplicadas diretamente. Recentemente, para tentar resolver esse problema, o conceito de Dataspace foi introduzido na comunidade. Dataspace pode ser definido como uma abstração do conceito de gerenciamento de dados, em que as tarefas de manipulação dos dados são bastante flexíveis em relação à sua natureza e estrutura. Juntamente com este conceito, foi introduzida uma arquitetura denominada Dataspace Support Platform (DSSP), cujo objetivo é habilitar componentes capazes de fornecer serviços inter-relacionados e que garantam acesso fácil a dados distribuídos em um Dataspace. Partindo da idéia de DSSPs, a proposta desse projeto é a especificação e desenvolvimento de técnicas e algoritmos de gerenciamento de dados com múltiplas representações, conectados entre si em um ambiente chamado Aglomerante. O projeto contempla como principal contribuição a especificação e construção de técnicas e algoritmos de gerenciamento de dados com múltiplas representações.
+1992
+1994
+1998
+1998
+1999
+2000
+2002
+2003
+2003
+2004
+2005	Banco de Dados
+2006
+2007
+2008
+2008
+2010
+Accelerated Incremental Listwise Learning to Rank for Collaborative Filtering
+A Knowledge-Based Framework to House Thermal Parameters Identification From Heat Pumps Consumptions In A Multi-Zone Smart Building Context
+A Knowledge-based Model to House Thermal Parameters Identification from Heat Pumps Consumptions in a Multi-zone Smart Building Context
+Aplicação de Descritores MPEG-7 e índice métrico para recuperar imagens do CoPhIR por similaridade
+Associando Dados sobre Movimento Textualmente Anotados a Dados Ligados Abertos.
+Automatic interpretation of the opinion from the reader?s standpoint
+Banco de Dados Orientados a Objetos	Banco de Dados
+Busca aproximada por competências em grandes volumes de dados
+Concurso Público para Professor Adjunto, Nível 1 - Área do Conhecimento: Banco de Dados
+Concurso Público para Professor Adjunto, Nível 1 - Área do Conhecimento: Banco de Dados
+Concurso Público para Professor Adjunto, Nível 1 - Área do Conhecimento: Teoria da Computação
+Correlação aproximada de dados extraídos a partir de texto semiestruturado
+Deepec: Uma Abordagem para Extração e Catalogação de Conteúdo Presente da Deep Web
+Definindo Esquemas para Dados Semi-Estruturados
+Desambiguação de Autores em Bibliotecas Digitais utilizando Redes Sociais e Programação Genética
+Descoberta de Cross-Language Links Ausentes na Wikipédia
+Descoberta de Padrões de Encontro em Trajetórias de Objetos Móveis
+Descoberta de ruído em páginas da web oculta através de uma abordagem de aprendizagem supervisionada
+Desenvolvimento da Interface e Automatização da Coleta de Dados na Open Smart City View
+Desenvolvimento da Interface Gráfica do BInXS
+Desenvolvimento de operadores de agrupamento por similaridade em SGBD relacionais.
+Desenvolvimento de um componente para transferência de arquivos em ambientes de alto desempenho heterogêneos
+Detecção e classificação de revisões de produtos em ambientes ruidosos
+DIInCX: Uma abordagem para Descoberta de Restrições de Integridade Semântica Implícitas em Dados XML
+ECASE: Ferramenta Case Educacional para Modelagem de Dados
+Experimentos com Padrões e Ferramentas Abertos para Suportar Acesso Integrado a Dados Geográficos pela Defesa Civil
+Extração de dados provenientes de fóruns de perguntas/respostas
+Extração de Informações de Conferências em Páginas Web
+Extração e Alinhamento de Hierarquias em Páginas Web
+Ferramenta para Análise do Comportamento Científico de Pesquisadores
+Implementação de Otimizações em uma Técnica de Matching por Similaridade Para Web Forms
+Incorporação do processo de engenharia reversa de bancos de dados relacionais na ferramenta brModeloNext
+Integrar sistemas legados de acesso restrito, entre unidades fisicamente distantes usando web services
+Mapeamento de um Modelo Lógico Temporal para um Modelo Físico em um SGBD
+Mapping Temporal Queries in Database Management Systems Unsupported Temporality
+Mineração de Opiniões Baseada em Aspecto em Fontes de Opiniões Fracamente Estruturadas
+Modelagem de Perfil de Pesquisadores e Extração de Informações Para Popular um Banco de Dados de Perfis
+Modelo para Descoberta do Conhecimento Baseado em Associação Semântica e Temporal entre Elementos Texutais
+NewRAD: uma ferramenta para desenvolvimento rápido de sistemas em Java
+OPEN SMART CITY VIEW: Uma Solução Computacional para Manipulação e Apresentação de Dados Governamentais Abertos
+OPIS: Um Método para Identificação e Busca de Páginas-Objeto
+Otimizando a Comparação entre Dados Semi-Estruturados de Múltiplas Fontes
+O uso de orquestradores de serviços Web em sistemas B2B
+PANDORA - Uma Ferramenta para Visualização e Análise de Redes Sociais Acadêmicas
+Plano de teste de software: Uma aplicação em uma empresa que terceiriza o desenvolvimento de software
+Processo automático de extração de dados estruturados da web
+Prolog versus XQuery Processors: A Performance Evaluation of XML Queries Processing Methods
+Redução do Esforço do Usuário na Configuração da Deduplicação de Grandes Bases de Dados.
+Resolução de entidades em sistemas de recomendação
+Seleção de Valores para Preenchimento de Formulários Web
+SQLTOKEYNOSQL: Uma Camada para Mapeamento de Esquemas Relacionais e de Operações SQL para Bancos de Dados NoSQL Baseados em Chaves de Acesso
+Suporte a Consultas Temporais Através de um Mapeamento da Linguagem TSQL2 para o Postgresql
+Tecnologias para desenvolvimento de aplicações Web: Linguagens e Tecnologias
+Tolerância a Falhas Bizantinas no Processamento de Transações
+Uma Abordagem para Detecção e Extração de Rótulos em Formulários Web
+Uma Arquitetura de Sistema Geográfico Baseado em Conhecimento com Sustentação Epistemológica
+Uma proposta de arquitetura de alto desempenho para sistemas PACS baseada em extensões de bancos de dados
+Uma solução para comércio eletrônico B2B
+Um comparativo entre técnicas de casamento (matching) de esquemas e dados na deep web
+Um método para Deduplicação de metadados bibliográficos baseado no Empilhamento de Classificadores
+Um método para Deduplicação de metadados bibliográficos baseado no Empilhamento de Classificadores
+Um Processo para Modelagem Lógica de Bancos de Dados Colunares
+Utilização de WebServices para acesso a cluster
+Utilizando Funções de Autenticação de Mensagens para a Detecção e Recuperação de Violações de Integridade de Acesso a Tabelas Relacionais
+Web services para criação de sistemas de controle acessando sistemas legados
+XMI2DB2XMI - Uma Ferramenta para Geração de Estrutura de um Banco de Dados Usando Arquivos XMI
