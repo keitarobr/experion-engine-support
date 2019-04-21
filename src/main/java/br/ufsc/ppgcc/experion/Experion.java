@@ -10,7 +10,7 @@ public class Experion {
 
     private static Experion instance = new Experion();
 
-    private Configuration config = new EnvironmentConfiguration();
+    private Configuration config = new CustomConfiguration(new EnvironmentConfiguration());
 
     public static Experion getInstance() {
         return instance;
